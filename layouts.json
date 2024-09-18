@@ -1,5 +1,21 @@
 [
     {
+    "slug": "cleaning",
+    "version": "1.0.0",
+    "name": "Cleaning",
+    "package_name": "Divi Cleaning layout Packs",
+    "description": "Professionally designed website layouts for digital agencies featuring services and project detail pages.",
+    "thumb": "https://layouts.diviflash.xyz/cleaning/wp-content/uploads/sites/43/2024/09/Divi-Cleaning-layout-Packs.png",
+    "demo_url": "https://layouts.diviflash.xyz/digital-agency-multipage/",
+    "package_url": "https://layouts.diviflash.xyz/cleaning/wp-content/uploads/sites/43/2024/09/Divi-Cleaning-layout-Packs.zip",
+    "download_url": "https://layouts.diviflash.xyz/digital-agency-multipage/wp-content/uploads/sites/40/2024/08/Digital-Agency-Multipage-Layout-DiviFlash.zip",
+    "doc_link": "https://diviflash.com/docs/digital-agency-multipage/",
+    "menu_instruction": {
+      "list": "Home, Services, About Us, Works, Blog, Contact"
+    }
+  },
+    
+    {
     "slug": "digital_agency_multi_page",
     "version": "1.0.0",
     "name": "Digital Agency Multipage",
