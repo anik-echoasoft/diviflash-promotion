@@ -1,5 +1,21 @@
 [
     {
+    "slug": "gym",
+    "version": "1.0.0",
+    "name": "Fitness",
+    "package_name": "Divi Fitness Layout Packs",
+    "description": "Fitness pack created for gyms, fitness centers, and personal trainers featuring fitness classes and pricing pages.",
+    "thumb": "https://layouts.diviflash.xyz/gym/wp-content/uploads/sites/46/2024/11/Divi-Fitness-Layout-Packs.webp",
+    "demo_url": "https://layouts.diviflash.xyz/gym/",
+    "package_url": "https://layouts.diviflash.xyz/gym/wp-content/uploads/sites/46/2024/11/diviflash_gym_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/gym/wp-content/uploads/sites/46/2024/11/Fitness-Layout-DiviFlash.zip",
+    "doc_link": "https://diviflash.com/docs/gym/",
+    "menu_instruction": {
+      "list": "Home, About Us, Pages (Submenu: Our Fitness Class, Class Details, Team, Team Detail, Testimonial, 404 Page), Blog, Pricing, Contact Us"
+    }
+  },
+    
+    {
     "slug": "car-repair",
     "version": "1.0.0",
     "name": "Car Repair",
