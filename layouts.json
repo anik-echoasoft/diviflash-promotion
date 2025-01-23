@@ -1,5 +1,24 @@
 [
     {
+    "slug": "travel",
+    "version": "1.0.0",
+    "name": "Travel",
+    "package_name": "Travel Layout Packs",
+    "description": "Website design for wine sellers, featuring about page for company history with in detailed wine exploration page.",
+    "thumb": "https://layouts.diviflash.xyz/travel/wp-content/uploads/sites/47/2025/01/travel-layout-packs.png",
+    "demo_url": "https://layouts.diviflash.xyz/travel/",
+    "package_url": "https://layouts.diviflash.xyz/travel/wp-content/uploads/sites/47/2025/01/diviflash_travel_layout_pack.zip",
+    "download_url": "#",
+    "plugins": [
+      "acf"
+    ],
+    "doc_link": "https://diviflash.com/docs/travel/",
+    "menu_instruction": {
+      "list": "Home, About, Explore Wines, Blog"
+    }
+  },
+    
+    {
     "slug": "gym",
     "version": "1.0.0",
     "name": "Fitness",
