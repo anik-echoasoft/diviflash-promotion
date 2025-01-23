@@ -10,11 +10,12 @@
     "package_url": "https://layouts.diviflash.xyz/travel/wp-content/uploads/sites/47/2025/01/diviflash_travel_layout_pack.zip",
     "download_url": "#",
     "plugins": [
+      "cpt_ui",
       "acf"
     ],
     "doc_link": "https://diviflash.com/docs/travel/",
     "menu_instruction": {
-      "list": "Home, About, Explore Wines, Blog"
+      "list": "Home, About, Service, Destination(Submenu: Destination, Destinations Details), Packages, Blogs(Submenu: Blog Grid, Single Post), Pages(Submenu: Testimonial, Error 404, Contact Us)"
     }
   },
     
