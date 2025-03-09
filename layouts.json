@@ -10,13 +10,14 @@
     "package_url": "https://layouts.diviflash.xyz/design-001/wp-content/uploads/sites/2/2025/03/diviflash_design-001_layout_pack.zip",
     "download_url": "#",
     "plugins": [
-      "acf",
+      "acf"
     ],
     "doc_link": "https://diviflash.com/docs/travel/",
     "menu_instruction": {
       "list": "Home, About, Service, Destination(Submenu: Destination, Destinations Details), Packages, Blogs(Submenu: Blog Grid, Single Post), Pages(Submenu: Testimonial, Error 404, Contact Us)"
     }
   },
+    
     {
     "slug": "travel",
     "version": "1.0.0",
