@@ -1,20 +1,17 @@
 [
     {
-    "slug": "design-001",
+    "slug": "personal-blog",
     "version": "1.0.0",
-    "name": "design-001",
-    "package_name": "design-001",
-    "description": "Beautifully designed website templates for travel agencies, tour operators, and travel bloggers featuring destination pages.",
-    "thumb": "https://layouts.diviflash.xyz/travel/wp-content/uploads/sites/47/2025/03/travel-layout-packs.webp",
-    "demo_url": "https://layouts.diviflash.xyz/travel/",
-    "package_url": "https://layouts.diviflash.xyz/design-001/wp-content/uploads/sites/2/2025/03/diviflash_design-001_layout_pack.zip",
+    "name": "Personal Blog Layout Packs",
+    "package_name": "diviflash_personal-blog_layout_pack",
+    "description": "Modern and vibrant layout pack designed for personal bloggers to share stories, thoughts, and updates with beautifully styled blog pages, category sections, galleries, and more.",
+    "thumb": "https://layouts.diviflash.xyz/personal-blog/wp-content/uploads/sites/48/2025/04/personal-blog-layout.webp",
+    "demo_url": "https://layouts.diviflash.xyz/personal-blog/",
+    "package_url": "https://layouts.diviflash.xyz/personal-blog/wp-content/uploads/sites/48/2025/04/diviflash_personal-blog_layout_pack.zip",
     "download_url": "#",
-    "plugins": [
-      "acf"
-    ],
-    "doc_link": "https://diviflash.com/docs/travel/",
+    "doc_link": "https://diviflash.com/docs/personal-blog/",
     "menu_instruction": {
-      "list": "Home, About, Service, Destination(Submenu: Destination, Destinations Details), Packages, Blogs(Submenu: Blog Grid, Single Post), Pages(Submenu: Testimonial, Error 404, Contact Us)"
+      "list": "Home, Blogs(Filterable Blog, Blog Grid, Single Post Page), Categories(Lifestyle, Travel, Hobbies, Workout), Gallery, Pages(FAQ, 404 Error, Contact)"
     }
   },
     
