@@ -26,7 +26,6 @@
     "package_url": "https://layouts.diviflash.xyz/travel/wp-content/uploads/sites/47/2025/05/diviflash_travel_layout_pack.zip",
     "download_url": "#",
     "plugins": [
-      "cpt_ui",
       "acf"
     ],
     "doc_link": "https://diviflash.com/docs/travel/",
