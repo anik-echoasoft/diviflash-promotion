@@ -12,8 +12,7 @@
     "download_url": "#",
     "doc_link": "https://diviflash.com/docs/magazine/",
     "plugins": [
-      "acf",
-      "woocommerce"
+      "acf"
     ],
     "menu_instruction": {
       "list": "Home, Blogs(Filterable Blog, Blog Grid, Single Post Page), Categories(Lifestyle, Travel, Hobbies, Workout), Gallery, Pages(FAQ, 404 Error, Contact)"
