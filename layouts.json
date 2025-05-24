@@ -1,6 +1,24 @@
 [
 
     {
+    "slug": "magazine",
+    "version": "1.0.0",
+    "name": "Magazine",
+    "package_name": "Magazine Layout Packs",
+    "description": "Modern and vibrant layout pack designed for personal bloggers to share stories, thoughts, and updates with beautifully styled blog pages, category sections, galleries, and more.",
+    "thumb": "https://layouts.diviflash.xyz/magazine/wp-content/uploads/sites/50/2025/05/Magazine-Layout-Pack.webp",
+    "demo_url": "https://layouts.diviflash.xyz/magazine/",
+    "package_url": "https://layouts.diviflash.xyz/magazine/wp-content/uploads/sites/50/2025/05/diviflash_magazine_layout_packs.zip",
+    "download_url": "#",
+    "plugins": [
+      "woocommerce"
+    ],
+    "doc_link": "https://diviflash.com/docs/magazine/",
+    "menu_instruction": {
+      "list": "Home, Blogs(Filterable Blog, Blog Grid, Single Post Page), Categories(Lifestyle, Travel, Hobbies, Workout), Gallery, Pages(FAQ, 404 Error, Contact)"
+    }
+  },
+    {
     "slug": "news",
     "version": "1.0.0",
     "name": "News",
