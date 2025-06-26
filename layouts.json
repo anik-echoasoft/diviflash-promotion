@@ -5,18 +5,18 @@
     "version": "1.0.0",
     "name": "Magazine",
     "package_name": "Magazine Layout Packs",
-    "description": "Modern and vibrant layout pack designed for personal bloggers to share stories, thoughts, and updates with beautifully styled blog pages, category sections, galleries, and more.",
+    "description": "Designed for magazines, editorials, and creators to showcase featured articles, interviews, and stories in a stylish layout.",
     "thumb": "https://layouts.diviflash.xyz/magazine/wp-content/uploads/sites/50/2025/05/Magazine-Layout-Pack.webp",
     "demo_url": "https://layouts.diviflash.xyz/magazine/",
     "package_url": "https://layouts.diviflash.xyz/magazine/wp-content/uploads/sites/50/2025/05/diviflash_magazine_layout_pack.zip",
-    "download_url": "#",
+    "download_url": "https://layouts.diviflash.xyz/magazine/wp-content/uploads/sites/50/2025/06/Magazine-Layout-Packs-Diviflash.zip",
     "doc_link": "https://diviflash.com/docs/magazine/",
     "plugins": [
       "acf",
       "woocommerce"
     ],
     "menu_instruction": {
-      "list": "Home, Blogs(Filterable Blog, Blog Grid, Single Post Page), Categories(Lifestyle, Travel, Hobbies, Workout), Gallery, Pages(FAQ, 404 Error, Contact)"
+      "list": "Fashion, Tech, Gym, Business, Food, Pages (Magazine, About Us, Authors, Contact Us, Error 404)"
     }
   },
     {
@@ -24,14 +24,14 @@
     "version": "1.0.0",
     "name": "News",
     "package_name": "News Layout Packs",
-    "description": "Modern and vibrant layout pack designed for personal bloggers to share stories, thoughts, and updates with beautifully styled blog pages, category sections, galleries, and more.",
+    "description": "A clean, content-focused design for news websites to showcase top stories, trending topics, and featured headlines with an organized layout.",
     "thumb": "https://layouts.diviflash.xyz/news/wp-content/uploads/sites/49/2025/05/News-Layout.webp",
     "demo_url": "https://layouts.diviflash.xyz/news/",
     "package_url": "https://layouts.diviflash.xyz/news/wp-content/uploads/sites/49/2025/05/diviflash_news_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/news/wp-content/uploads/sites/49/2025/05/News-Layout-Packs-Diviflash.zip",
-    "doc_link": "https://diviflash.com/docs/personal-blog/",
+    "doc_link": "https://diviflash.com/docs/news/",
     "menu_instruction": {
-      "list": "Home, Blogs(Filterable Blog, Blog Grid, Single Post Page), Categories(Lifestyle, Travel, Hobbies, Workout), Gallery, Pages(FAQ, 404 Error, Contact)"
+      "list": "World, Politics, Business, Tech, Health, Sports, Pages (About Us, Authors, Podcast, Contact us)"
     }
   },
     {
