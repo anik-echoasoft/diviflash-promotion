@@ -10,8 +10,8 @@
     "package_url": "https://layouts.diviflash.xyz/travel/wp-content/uploads/sites/47/2025/05/diviflash_travel_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/travel/wp-content/uploads/sites/47/2025/06/Travel-Layout-Packs-DiviFlash.zip",
     "plugins": [
-      "acf",
-      "cpt_ui"
+      "cpt_ui",
+      "acf"
     ],
     "doc_link": "https://diviflash.com/docs/travel/",
     "menu_instruction": {
