@@ -10,7 +10,7 @@
     "package_url": "https://layouts.diviflash.xyz/car-rental/wp-content/uploads/sites/51/2025/07/diviflash_car-rental_layout_pack.zip",
     "download_url": "https://layouts.diviflash.xyz/travel/wp-content/uploads/sites/47/2025/06/Travel-Layout-Packs-DiviFlash.zip",
     "plugins": [
-      "cpt_ui",
+      "contact_form7",
       "acf"
     ],
     "doc_link": "https://diviflash.com/docs/travel/",
