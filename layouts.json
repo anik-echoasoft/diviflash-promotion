@@ -4,18 +4,18 @@
     "version": "1.0.0",
     "name": "Car Rental",
     "package_name": "Car Rental Layout Packs",
-    "description": "Beautifully designed website templates for travel agencies, tour operators, and travel bloggers featuring destination pages.",
+    "description": "Built for car rental services with polished vehicle listings, service highlights, testimonials, and blog sections to turn visitors into renters.",
     "thumb": "https://layouts.diviflash.xyz/car-rental/wp-content/uploads/sites/51/2025/07/Car-Rental-Layout-Packs.webp",
     "demo_url": "https://layouts.diviflash.xyz/car-rental/",
     "package_url": "https://layouts.diviflash.xyz/car-rental/wp-content/uploads/sites/51/2025/07/diviflash_car-rental_layout_pack.zip",
-    "download_url": "https://layouts.diviflash.xyz/travel/wp-content/uploads/sites/47/2025/06/Travel-Layout-Packs-DiviFlash.zip",
+    "download_url": "https://layouts.diviflash.xyz/car-rental/wp-content/uploads/sites/51/2025/07/Car-Rental-Layout-Packs-DiviFlash.zip",
     "plugins": [
       "contact_form7",
       "acf"
     ],
-    "doc_link": "https://diviflash.com/docs/travel/",
+    "doc_link": "https://diviflash.com/docs/car-rental/",
     "menu_instruction": {
-      "list": "Home, About, Service, Destination(Submenu: Destination, Destinations Details), Packages, Blogs(Submenu: Blog Grid, Single Post), Pages(Submenu: Testimonial, Error 404, Contact Us)"
+      "list": "Home, Car Listing, Services, About, Blog, Contact"
     }
   },
     {
