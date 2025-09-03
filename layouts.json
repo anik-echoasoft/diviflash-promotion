@@ -12,7 +12,7 @@
     "plugins": [
       "contact_form7",
       "acf",
-      "cpt-ui"
+      "cpt_ui"
     ],
     "doc_link": "https://diviflash.com/docs/hotel/",
     "menu_instruction": {
@@ -32,7 +32,7 @@
     "plugins": [
       "contact_form7",
       "acf",
-      "cpt-ui"
+      "cpt_ui"
     ],
     "doc_link": "https://diviflash.com/docs/interior/",
     "menu_instruction": {
