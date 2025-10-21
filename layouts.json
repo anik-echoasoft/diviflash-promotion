@@ -1,5 +1,24 @@
 [
     {
+    "slug": "elearning",
+    "version": "1.0.0",
+    "name": "eLearning",
+    "package_name": "eLearning Layout Pack",
+    "description": "Website layouts for online learning platforms and educational institutions, featuring courses, mentors, testimonials, and FAQs.",
+    "thumb": "https://layouts.diviflash.xyz/elearning/wp-content/uploads/sites/56/2025/10/elearning-layout-pack.png",
+    "demo_url": "https://layouts.diviflash.xyz/elearning/",
+    "package_url": "https://layouts.diviflash.xyz/elearning/wp-content/uploads/sites/56/2025/10/diviflash_elearning_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/elearning/wp-content/uploads/sites/56/2025/10/eLearning-Layout-Packs-Diviflash.zip",
+    "plugins": [
+     "acf",
+     "woocommerce"
+    ],
+    "doc_link": "https://diviflash.com/docs/elearning/",
+    "menu_instruction": {
+      "list": "Home, Courses, Mentors, About, Blog, Contact"
+    }
+  },
+    {
     "slug": "events",
     "version": "1.0.0",
     "name": "Events",
