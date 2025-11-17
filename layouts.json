@@ -1,5 +1,41 @@
 [
     {
+    "slug": "hvac",
+    "version": "1.0.0",
+    "name": "HVAC",
+    "package_name": "HVAC Layout Pack",
+    "description": "Website layouts for HVAC and air conditioning service providers featuring services, pricing, testimonials, and contact sections to attract local clients.",
+    "thumb": "https://layouts.diviflash.xyz/hvac/wp-content/uploads/sites/58/2025/11/hvac-layout-pack.webp",
+    "demo_url": "https://layouts.diviflash.xyz/hvac/",
+    "package_url": "https://layouts.diviflash.xyz/hvac/wp-content/uploads/sites/58/2025/11/diviflash_hvac_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/hvac/wp-content/uploads/sites/58/2025/11/HVAC-Layout-Packs-Diviflash.zip",
+    "plugins": [
+     
+    ],
+    "doc_link": "https://diviflash.com/docs/hvac/",
+    "menu_instruction": {
+      "list": "Home, Services, About us, Blog, Contact"
+    }
+  },
+    {
+    "slug": "insurance",
+    "version": "1.0.0",
+    "name": "Insurance",
+    "package_name": "Insurance Layout Pack",
+    "description": "Website layouts for insurance and financial service providers featuring service details, pricing plans, testimonials, and contact sections.",
+    "thumb": "https://layouts.diviflash.xyz/insurance/wp-content/uploads/sites/59/2025/11/insurance-layout-pack.webp",
+    "demo_url": "https://layouts.diviflash.xyz/wind-solar-energy/",
+    "package_url": "https://layouts.diviflash.xyz/insurance/wp-content/uploads/sites/59/2025/11/diviflash_insurance_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/insurance/wp-content/uploads/sites/59/2025/11/Insurance-Layout-Packs-Diviflash.zip",
+    "plugins": [
+     
+    ],
+    "doc_link": "https://diviflash.com/docs/insurance/",
+    "menu_instruction": {
+      "list": "Home, Insurance Plans (Life Secure Plan, Business Shields Plan, House Insurance Plan, Car Insurance Plan, Retirement Insurance Plan), About Us, Blog, Contact"
+    }
+  },
+    {
     "slug": "elearning",
     "version": "1.0.0",
     "name": "eLearning",
