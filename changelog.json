@@ -1,19 +1,27 @@
 {
-  "version": "Version 1.4.13",
-  "date": "Wednesday June 25, 2025",
+  "version": "Version 5.3.0",
+  "date": "Saturday July 4, 2026",
+  "Introduced": [
+    "Introduced: Timeline Tabs Module.",
+    "Introduced: Animated Navigation Module.",
+    "Introduced: Advanced Bar Counter Module.",
+    "Introduced: Background Switcher Module."
+  ],
   "Added": [
-    "PostList WPML Support.",
-    "WooCommerce Support added for Layout Importer."
+    "WPForms Styler Module — WPForms Pro support."
   ],
   "Fixed": [
-    "Advanced Gallery image filter issue handled.",
-    "Preloader native loading issue resolved.",
-    "Advanced Gallery image load issue on Safari handled.",
-    "CPTFilter Condition issue resolved.",
-    "Polylang plugin with taxonomy name issue resolved.",
-    "Advanced Gallery Active State filter button background color not working.",
-    "Advanced Menu logo stretching issue on Safari browser.",
-    "Testimonial Rating font-size not working on Divi Template.",
-    "PricingTable conflict with Yoast Plugin redirect handled"
+    "Fixed: Bar Chart — Bugs when importing demo.",
+    "Fixed: Line Chart — Bugs when importing demo.",
+    "Fixed: Dashboard — Video & Community URL.",
+    "Fixed: Advanced Menu — Sticky logo related bug.",
+    "Fixed: Builder — Loading issue.",
+    "Fixed: Compatibility — Bugs with latest Divi 5.8.0 theme.",
+    "Fixed: Text Highlighter — Gradient color bug.",
+    "Fixed: Library Item — Loading bug.",
+    "Fixed: Advanced List — Fatal error.",
+    "Fixed: Advanced Tab — Fatal error.",
+    "Fixed: Testimonial Carousel — Image related issue.",
+    "Fixed: ACF Gallery — Custom post type data rendering issue."
   ]
 }
