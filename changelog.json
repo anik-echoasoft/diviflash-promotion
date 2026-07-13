@@ -2,6 +2,8 @@
   {
     "version": "Version 5.3.1",
     "date": "Monday July 13, 2026",
+    "Introduced": [],
+    "Added": [],
     "Fixed": [
       "Fixed: CPT Modules — Content rendering related issue."
     ]
